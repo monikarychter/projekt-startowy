@@ -1,0 +1,27 @@
+#p1 {
+    background-color: skyblue;
+}
+
+#p2 {
+    background-color: darksalmon;
+}
+
+#inline-elements p {
+    display: inline;
+}
+
+#inline-p1 {
+    background-color: aqua;
+}
+
+#inline-p2 {
+    background-color: crimson;
+}
+
+#inline-block-elements li {
+    display: inline-block;
+    width: 100px;
+    height: 50px;
+    background-color: bisque;
+
+}

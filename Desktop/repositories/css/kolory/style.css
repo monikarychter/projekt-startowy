@@ -1,0 +1,22 @@
+div {
+    width: 200px;
+    height: 50px;
+    margin-bottom: 15px;
+
+}
+
+#predefined-colore {
+    background-color: aqua;
+}
+
+#hekxadecimal-coloreadecimal-colore {
+    background-color: beige;
+}
+
+#short-hexadecimal-color {
+    background-color: coral;
+}
+
+#rgba-funkction {
+    background-color: blueviolet;
+}

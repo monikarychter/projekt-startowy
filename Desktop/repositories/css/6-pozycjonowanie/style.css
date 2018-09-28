@@ -1,0 +1,33 @@
+#static {
+    width: 400px;
+    height: 100px;
+    background-color: chocolate;
+}
+
+#relative {
+    position: relative;
+    width: 600px;
+    height: 400px;
+    background-color: aquamarine;
+    top: 50px;
+    left: 50px;
+}
+
+#absolute {
+    width: 200px;
+    height: 100px;
+
+}
+
+#fixed {
+    position: fixed;
+    width: 300px;
+    height:
+
+}
+
+#stricky {
+    width: 100px;
+    height: 100px;
+    background-color: blue
+}

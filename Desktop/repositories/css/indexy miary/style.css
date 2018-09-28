@@ -1,0 +1,16 @@
+html {
+    font-size: 20px;
+}
+
+#conteiner {
+    font-size: 30px;
+}
+
+#conteiner > div {
+    background-color: coral;
+    margin-bottom: 15px;
+}
+#pixels {
+    width: 400px;
+}
+
